@@ -1,0 +1,19 @@
+{
+	"name": "threejs",
+	"version": "1.0.0",
+	"description": "",
+	"devDependencies": {
+		"@parcel/transformer-sass": "^2.8.2",
+		"lil-gui": "^0.17.0",
+		"parcel": "^2.8.2"
+	},
+	"dependencies": {
+		"gsap": "^3.11.4",
+		"three": "^0.148.0"
+	},
+	"scripts": {
+		"start": "parcel index.html"
+	},
+	"author": "",
+	"license": "ISC"
+}
